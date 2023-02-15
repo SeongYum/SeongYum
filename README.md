@@ -4,6 +4,9 @@
 
 ✉️ contact : dbal6930@gmail.com
 
+✨resume : https://www.notion.so/yumiresume/296b5ec6d85d4d1391d7f0d790c85111?pvs=4
+
+
 ## ⚙️ Skills
 ![image](https://user-images.githubusercontent.com/107836206/201006763-863c3f60-1456-4cb3-b7f5-ebbcac47fc0d.png)
 ![image](https://user-images.githubusercontent.com/107836206/201006777-e6d4621d-a761-4767-8173-6a11a2dedfca.png)
